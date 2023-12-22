@@ -1,0 +1,26 @@
+---
+group:
+  - name: Nicholas Josephson
+    netid: noj5
+  - name: Lucas Casas
+    netid: lcc79
+  - name: Manoli Lambrakis
+    netid: el668
+pm:
+  name: Ariella Gettig
+  netid: aqg7
+publish: false
+title: "Smart Task Scheduler"
+git-repo: "https://github.coecis.cornell.edu/noj5/cs3110-final"
+desc: >
+  Students struggle every day to strike a balance between their studies and 
+  their free time. The link between a student's commitment and a productive 
+  study regimen is provided by Task Scheduler. The software creates a 
+  customized schedule based on the subjects weekly study objectives and 
+  available hours entered by the user. Built-in algorithms make sure 
+  that the subjects are distributed optimally, taking into account personal 
+  preferences like chunking study sessions. The final schedule is displayed in a
+  graphical calendar view, on a daily or weekly basis. The schedule can also be 
+  displayed in a optimized format ranked by priority of tasks. All tasks are 
+  able to be modified, and the final schedule can be exported, and then re-imported
+  for later use.

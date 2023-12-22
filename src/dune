@@ -1,0 +1,5 @@
+(library
+ (public_name TaskManager)
+ (name TaskManager)
+ (modules Gui Scheduler Input)
+ (libraries yojson))
